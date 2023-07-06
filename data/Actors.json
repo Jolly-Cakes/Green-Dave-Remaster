@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"OB0rLBf","characterIndex":0,"characterName":"newsf(1)","classId":1,"equips":[0,0,0,2,0],"faceIndex":0,"faceName":"The_Cooler_Daveicon green dave","traits":[{"code":22,"dataId":0,"value":0.95}],"initialLevel":1,"maxLevel":99,"name":"Green Dave","nickname":"","note":"","profile":"A Wild Man In Green That Likes To Kill Furries"},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"newsf(1)","classId":2,"equips":[0,0,0,0,1],"faceIndex":0,"faceName":"your cool cat","traits":[{"code":22,"dataId":0,"value":0.95}],"initialLevel":1,"maxLevel":99,"name":"Mittens","nickname":"","note":"","profile":"The True Sigma Cat"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
